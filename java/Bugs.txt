@@ -1,0 +1,14 @@
+BUGS1
+int vida = 100.5;
+int vida = 100;
+
+String nivel = 1;
+int nivel = 1;
+String nivel = "1";
+
+BUGS2
+
+if (clase = "Guerrero") { ... }
+if (String clase = "Guerrero"){ ... }
+String clase
+if (clase = "Guerrero") { ... }
