@@ -1,0 +1,6 @@
+Python: 
+  esta_vivo = 'true'       # error: lo esta tomando como string y no como bool 
+  mana = int('cien')       # error: esta haciendo un string cuando quiere hacer un int
+Corregidos
+esta_vivo = True
+mana = 100  # o int('100')
